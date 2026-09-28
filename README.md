@@ -1,10 +1,12 @@
-# ABC Ltd - Bank Nifty Next-Day Direction Predictor
-
-Transparent predictive tool using Linear + Logistic Regression for non-technical managers.
-
-## How to run
-pip install -r requirements.txt
-python app.py
-
-## Author
-CFA Level 2 Candidate | Former Equirus Capital
+---
+title: Banknifty Direction Predictor
+emoji: 😻
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 4.44.1
+app_file: app.py
+pinned: false
+license: mit
+short_description: Transparent Linear + Logistic Regression tool for managers
+---
